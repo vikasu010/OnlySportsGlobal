@@ -244,13 +244,13 @@
 }
 .card-title {
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
 }
 .card-text {
   text-align: center;
-  font-size: 22px;
+  font-size: 16px;
   font-weight: bold;
   text-transform: capitalize;
 }
@@ -258,7 +258,7 @@
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 @media (max-width: 768px) {
